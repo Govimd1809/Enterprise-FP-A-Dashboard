@@ -86,3 +86,11 @@ Enterprise-FP-A-Dashboard/
 
 ### Forecasting & Outlook
 ![Forecasting Outlook](Screenshots/03_forecasting_outlook.png)
+## Key Financial Insights
+
+- Total actual revenue was **$80.21M**, compared with a budgeted revenue of **$80.41M**.
+- Revenue was approximately **$206.55K below budget**, indicating a slight revenue shortfall.
+- Actual gross profit was **$32.17M**, with a gross margin of **40.11%**.
+- Regional analysis highlights differences in revenue and cost performance across **North, South, East, and West** regions.
+- Budget vs Actual analysis helps identify revenue and cost variances and supports management performance evaluation.
+- The dashboard provides an integrated view of **revenue, profitability, margins, regional performance, variance analysis, and financial trends** for FP&A decision-making.
