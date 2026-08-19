@@ -1,14 +1,14 @@
 # Enterprise FP&A Dashboard
 
-An end-to-end Enterprise FP&A and Financial Performance Dashboard built using Power BI, SQL, PostgreSQL, Excel, Power Query, and DAX.
+An end-to-end Enterprise FP&A and Financial Performance Dashboard built using Power BI, SQL, PostgreSQL, Excel, Power Query and DAX.
 
-## 📊 Project Overview
+## Project Overview
 
-This project analyzes 100,000+ financial transactions across revenue, costs, profitability, budgets, and forecasts to provide management-ready financial insights.
+This project analyzes 100,000+ financial transactions across revenue, costs, profitability, budgets and forecasts to provide management-ready financial insights.
 
-The dashboard is designed to support FP&A activities such as Budget vs Actual analysis, P&L analysis, variance analysis, profitability analysis, KPI reporting, and financial forecasting.
+The dashboard is designed to support FP&A activities such as Budget vs Actual analysis, P&L analysis, variance analysis, profitability analysis, KPI reporting and financial forecasting.
 
-## 🎯 Business Objectives
+## Business Objectives
 
 - Analyze revenue and cost performance
 - Compare Budget vs Actual financial performance
@@ -18,16 +18,16 @@ The dashboard is designed to support FP&A activities such as Budget vs Actual an
 - Track historical financial trends
 - Support forecasting and management reporting
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Power BI** – Dashboard development and data visualization
 - **PostgreSQL** – Database and financial data storage
-- **SQL** – Data extraction, aggregation, joins, and financial analysis
+- **SQL** – Data extraction, aggregation, joins and financial analysis
 - **DAX** – Financial measures and KPI calculations
 - **Power Query** – Data transformation and validation
 - **Excel** – Data preparation and financial analysis
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 
 The dashboard includes:
 
@@ -42,7 +42,7 @@ The dashboard includes:
 - Financial Forecasting & Outlook
 - KPI reporting
 
-## 💰 Key Financial KPIs
+## Key Financial KPIs
 
 - Total Revenue
 - Total Cost
@@ -53,7 +53,7 @@ The dashboard includes:
 - Budget vs Actual Performance
 - Revenue Growth and Financial Trends
 
-## 🗄️ SQL Analysis
+## SQL Analysis
 
 SQL was used to perform financial analysis including:
 
@@ -66,7 +66,7 @@ SQL was used to perform financial analysis including:
 - Revenue Variance by Region
 - Cost Variance by Region
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Enterprise-FP-A-Dashboard/
