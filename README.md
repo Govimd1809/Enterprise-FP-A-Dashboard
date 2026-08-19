@@ -71,21 +71,17 @@ SQL was used to perform financial analysis including:
 ```text
 Enterprise-FP-A-Dashboard/
 │
-├── README.md
+├── PowerBI/
+│   └── Enterprise_FPA_Dashboard.pbix
+│
+├── Screenshots/
+│   ├── 01_main_dashboard.png
+│   ├── 02_p&l_analysis.png
+│   └── 03_forecasting_outlook.png
+│
 ├── 01_financial_analysis.sql
-└── region_analysis.sql
-```
-
-## Dashboard Preview
-
-### Main Financial Dashboard
-![Main Financial Dashboard](Screenshots/01_main_dashboard.png)
-
-### P&L Analysis
-![P&L Analysis](Screenshots/02_p&l_analysis.png)
-
-### Forecasting & Outlook
-![Forecasting Outlook](Screenshots/03_forecasting_outlook.png)
+├── region_analysis.sql
+└── README.md
 ## Key Financial Insights
 
 - Total actual revenue was **$80.21M**, compared with a budgeted revenue of **$80.41M**.
