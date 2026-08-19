@@ -79,10 +79,10 @@ Enterprise-FP-A-Dashboard/
 ## Dashboard Preview
 
 ### Main Financial Dashboard
-![Main Financial Dashboard](Screenshots/01_main_dashboard.png.png)
+![Main Financial Dashboard](Screenshots/01_main_dashboard.png)
 
 ### P&L Analysis
-![P&L Analysis](Screenshots/02_p&l_analysis.png.png)
+![P&L Analysis](Screenshots/02_p&l_analysis.png)
 
 ### Forecasting & Outlook
-![Forecasting Outlook](Screenshots/03_forecasting_outlook.png.png)
+![Forecasting Outlook](Screenshots/03_forecasting_outlook.png)
