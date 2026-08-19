@@ -74,6 +74,7 @@ Enterprise-FP-A-Dashboard/
 ├── README.md
 ├── 01_financial_analysis.sql
 └── region_analysis.sql
+
 ## Dashboard Preview
 
 ### Main Financial Dashboard
