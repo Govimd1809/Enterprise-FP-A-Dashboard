@@ -74,3 +74,13 @@ Enterprise-FP-A-Dashboard/
 ├── README.md
 ├── 01_financial_analysis.sql
 └── region_analysis.sql
+## Dashboard Preview
+
+### Main Financial Dashboard
+![Main Financial Dashboard](Screenshots/01_main_dashboard.png.png)
+
+### P&L Analysis
+![P&L Analysis](Screenshots/02_p&l_analysis.png.png)
+
+### Forecasting & Outlook
+![Forecasting Outlook](Screenshots/03_forecasting_outlook.png.png)
